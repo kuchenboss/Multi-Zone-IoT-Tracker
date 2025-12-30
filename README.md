@@ -1,1 +1,66 @@
-<!--PRO TIPP:Ersetze die URL bei 'src' im <img> Tag durch dein echtes Logo.Ersetze [Dein Projekt Name] durch den echten Namen.--><div align="center"><img src="https://www.google.com/search?q=https://via.placeholder.com/150/6e44ff/ffffff%3Ftext%3DFP" alt="Fillypath Studio Logo" width="120" height="120">DEIN PROJEKT NAMEDas ultimative Erlebnis, präsentiert von Fillypath Studio.<!-- Badges --><p><a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Made%2520by-Fillypath%2520Studio-6e44ff%3Fstyle%3Dfor-the-badge%26logo%3Dappveyor" alt="Made by Fillypath Studio"></a><a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Active-success%3Fstyle%3Dfor-the-badge" alt="Status"></a><a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Version-1.0.0-blue%3Fstyle%3Dfor-the-badge" alt="Version"></a></p><br /><p><a href="#-über-das-projekt">✨ Über das Projekt</a> •<a href="#-features">🚀 Features</a> •<a href="#-fillypath-studio">💎 Fillypath Studio</a> •<a href="#-mitwirken">🤝 Mitwirken</a></p></div><br />✨ Über das ProjektWillkommen zur nächsten Generation. [Dein Projekt Name] wurde entwickelt, um Grenzen zu sprengen und neue Standards zu setzen. Egal ob du hier bist, um zu staunen, zu lernen oder zu erschaffen – dieses Projekt bietet dir die Werkzeuge dafür."Innovation ist nicht nur ein Wort, es ist unsere DNA bei Fillypath Studio."<br />🚀 FeaturesHier ist, was dieses Projekt so besonders macht:FeatureBeschreibung🎨 Design FirstEine Benutzeroberfläche, die nicht nur funktioniert, sondern begeistert.⚡ PerformanceOptimiert bis ins letzte Bit für blitzschnelle Reaktionen.🛡️ SicherheitGebaut mit modernsten Standards, um deine Daten zu schützen.☁️ Cloud ReadySkalierbar und bereit für jede Infrastruktur.Highlights[x] Intuitiver Workflow: Starten ohne Handbuch.[x] Cross-Platform: Läuft überall dort, wo du bist.[x] Community Driven: Entwickelt mit Feedback von echten Nutzern.<br />💎 Fillypath StudioDieses Projekt wird mit Leidenschaft und Präzision von Fillypath Studio entwickelt.Wir sind ein Team aus Kreativen, Entwicklern und Visionären, die es sich zur Aufgabe gemacht haben, digitale Erlebnisse zu schaffen, die im Gedächtnis bleiben.<div align="center"><h3>Besuche uns</h3><p>Hast du Fragen, Feedback oder willst einfach nur Hallo sagen?</p><a href="https://www.google.com/search?q=https://github.com/fillypath-studio"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Fillypath%2520Studio-black%3Fstyle%3Dflat-square%26logo%3Dgithub" alt="GitHub"></a><a href="https://twitter.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-Folge%2520uns-blue%3Fstyle%3Dflat-square%26logo%3Dtwitter" alt="Twitter"></a><a href="mailto:contact@fillypath.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Kontakt-red%3Fstyle%3Dflat-square%26logo%3Dgmail" alt="Email"></a></div><br />🤝 MitwirkenDu möchtest Teil der Reise werden? Beiträge sind immer willkommen!Forke das ProjektErstelle deinen Feature Branch (git checkout -b feature/AmazingFeature)Committe deine Änderungen (git commit -m 'Add some AmazingFeature')Pushe den Branch (git push origin feature/AmazingFeature)Öffne einen Pull Request<br />📜 LizenzVerteilt unter der MIT Lizenz. Siehe LICENSE für mehr Informationen.<br /><div align="center"><p>Made with ❤️ by <strong>Fillypath Studio</strong></p></div>
+![Project Banner](https://via.placeholder.com/800x200/121212/6e44ff?text=Multi-Zone-IoT-Tracker)
+
+# Multi-Zone-IoT-Tracker
+
+> **Entwickelt von Fillypath Studio. Dein lokales IoT-Kommandozentrum.**
+
+[![Made by Fillypath](https://img.shields.io/badge/Made%20by-Fillypath%20Studio-6e44ff?style=for-the-badge)](https://github.com/kuchenboss)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/License-Apache%202.0-red?style=for-the-badge)]()
+
+---
+
+## ✨ Über das Projekt
+
+Der **Multi-Zone-IoT-Tracker** holt die volle Kontrolle zurück zu dir. Kein Cloud-Zwang, kein unnötiger Overhead. Dieses System wurde entwickelt, um lokal auf deinen Servern oder Laptops zu laufen und deine IoT-Zonen präzise zu überwachen.
+
+Entwickelt mit dem Anspruch, dass Daten da bleiben sollen, wo sie hingehören: In dein lokales Netzwerk.
+
+---
+
+## 💎 Fillypath Studio
+
+Hinter diesem Projekt steht **Fillypath Studio** (GitHub User: `@kuchenboss`). Wir bauen Software, die nicht nur funktioniert, sondern auch verdammt gut aussieht.
+
+- 🐙 **GitHub:** [@kuchenboss](https://github.com/kuchenboss)
+
+---
+
+## 🚀 Features
+
+Was dieses System ausmacht:
+
+| Highlight | Details |
+| :--- | :--- |
+| **🏠 100% Lokal** | Läuft auf deinem Home-Server oder Laptop. Keine Cloud, kein "Nach Hause telefonieren". |
+| **⚡ Performance** | Optimiert für Hardware-Effizienz, egal ob alter Laptop oder starkes Server-Rig. |
+| **🎨 Design** | Kompromisslose UI, die auf dunkle Ästhetik setzt. |
+| **🔌 IoT Core** | Zuverlässiges Tracking über mehrere Zonen hinweg. |
+
+### Besonderheiten
+
+* ✅ **Open Source** (Apache 2.0)
+* ✅ **Server & Laptop Ready:** Einfach deployen und laufen lassen.
+* 🌑 **Dark Mode Only:** Wir haben keinen Light Mode eingebaut. Warum? Weil wir unsere Netzhäute mögen und echte Dashboards schwarz sind. (Und weil es cooler aussieht).
+
+---
+
+## 🤝 Mitwirken
+
+Du willst das lokale Tracking noch besser machen? Pull Requests sind gerne gesehen!
+
+1.  Forke das Projekt
+2.  Erstelle einen Branch (`git checkout -b feature/NeuesFeature`)
+3.  Committe deine Änderungen (`git commit -m 'Add NeuesFeature'`)
+4.  Push den Branch (`git push origin feature/NeuesFeature`)
+5.  Öffne einen Pull Request
+
+---
+
+## 📜 Lizenz
+
+Veröffentlicht unter der **Apache License 2.0**.
+
+---
+
+**Made with ❤️ by Fillypath Studio**
